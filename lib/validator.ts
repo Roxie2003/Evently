@@ -7,7 +7,7 @@ export const eventFormSchema = z.object({
   imageUrl: z.string(),
   startDateTime: z.date(),
   endDateTime: z.date(),
-  categoryId: z.string(),
+  categoryId: z.string().min(1,"Category can't be empty"),
   price: z.string(),
   isFree: z.boolean(),
   url: z.string().url()
