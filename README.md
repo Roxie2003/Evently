@@ -12,10 +12,6 @@
   </div>
 
   <h3 align="center">A Full Stack Next 14 Events App</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -28,13 +24,6 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/zgGhzuBZOQg" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -51,6 +40,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 - TypeScript
 - TailwindCSS
 - Stripe
+- Clerk
 - Zod
 - React Hook Form
 - Shadcn
@@ -1346,25 +1336,31 @@ export default Orders
 
 All assets used in the project can be found [here](https://drive.google.com/file/d/1hoRwUtTFIiuOXPw-SDYj6wk4hZTMcYmL/view?usp=sharing)
 
-## <a name="more">🚀 More</a>
+## <a name="screenshots">🚀 Screenshots</a>
+0. Clerk Authentication
+![image](https://github.com/Roxie2003/Evently/assets/59964427/5a278629-96bb-471b-886b-0199ef558053)
 
-**Advance your skills with Next.js 14 Pro Course**
+1. Beautiful Homepage
+![image](https://github.com/Roxie2003/Evently/assets/59964427/d51aff82-e76f-444d-9f24-59d68545acda)
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
+2. Search Events all over the world
+![image](https://github.com/Roxie2003/Evently/assets/59964427/1df9360e-064f-4c60-a13c-11bb96381565)
 
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
 
-<br />
-<br />
+3. Create/Update New Events
+![image](https://github.com/Roxie2003/Evently/assets/59964427/78044001-2a2d-46ff-92d0-a44d5e0e634d)
 
-**Accelerate your professional journey with Expert Training program**
+4. View Events
+![image](https://github.com/Roxie2003/Evently/assets/59964427/3ea4fac0-8fa4-48a6-8c29-277d0361d576)
 
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
+5. Buy Tickets for Events with Stripe
+![image](https://github.com/Roxie2003/Evently/assets/59964427/a40edc4b-92a0-4439-b1b4-f50566458d48)
 
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
+7. View Ticket Orders for an Event
+![image](https://github.com/Roxie2003/Evently/assets/59964427/82474fb2-be0e-43d7-a2af-f0834376e5f1)
+
+8. View Tickets Bought and Events Organized
+![image](https://github.com/Roxie2003/Evently/assets/59964427/5031a6bc-984b-4c96-9e1c-a931b811b3d3)
+![image](https://github.com/Roxie2003/Evently/assets/59964427/d7e36326-2043-431e-8466-44073d6799d5)
 
 #
